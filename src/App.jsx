@@ -26,7 +26,7 @@ function App() {
           {id:5, name: "pineapple", calories: 37}
                        ]; 
 
-         const vegetables = [{id:6, name: "onion", calories: 99},
+         const vegetables = [{id:6, name: "raddish", calories: 99},
                             {id:7, name: "tomato", calories: 46},
                             {id:8, name: "carrot", calories: 100},
                             {id:9, name: "patato", calories: 158},
